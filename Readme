@@ -1,0 +1,54 @@
+🚀 DSA Journey – Day Wise Practice
+
+Welcome to my Data Structures & Algorithms (DSA) practice repository! 🎯
+This repo is dedicated to documenting my daily progress as I solve problems, learn concepts, and improve my coding skills step by step.
+
+📌 About this Repository
+
+📅 Daily Uploads – Each day, I’ll post the problems I’ve solved with solutions.
+
+💡 Concepts Covered – Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, and more.
+
+📝 Languages Used – Mostly Java/Python/C++ (depending on the problem).
+
+🔗 Organized by Days – Easy to navigate, e.g., Day-01, Day-02, etc.
+
+📂 Folder Structure
+DSA-Journey/
+│
+├── Day-01/
+│   ├── question1.java
+│   ├── question2.java
+│   └── README.md   # Explanation for Day 01 problems
+│
+├── Day-02/
+│   ├── question1.java
+│   └── README.md
+│
+└── ...
+
+🏆 Goals
+
+✔ Strengthen problem-solving skills
+✔ Build consistency by solving problems daily
+✔ Crack coding interviews & competitive exams
+✔ Create a strong GitHub portfolio
+
+✅ Progress Tracker
+Day	Topics Covered	No. of Problems	Link
+01	Arrays Basics	3	Day-01
+
+02	Strings	2	Day-02
+
+03	...	...	...
+📖 References
+
+LeetCode
+
+GeeksforGeeks
+
+HackerRank
+
+⭐ Acknowledgement
+
+This repository is my personal DSA learning log, but if it helps you too, feel free to ⭐ the repo and follow along with my journey! 🚀
