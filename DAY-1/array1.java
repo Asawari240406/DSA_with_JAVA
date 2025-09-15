@@ -1,4 +1,4 @@
-// Simple approach
+// Simple approach.
 /* 
 public class array1
 {   

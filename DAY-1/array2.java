@@ -1,5 +1,5 @@
 
-// Reversing the elements of an array in java.
+// Reversing the elements of an array in Java.
 public class array2 {
     public static void main(String args[])
     {

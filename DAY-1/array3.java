@@ -1,4 +1,4 @@
-// Maximum subarray sum using kadane's algorithm
+// Maximum subarray sum using kadane's algorithm.
 public class array3 {
     public static void main(String args[])
     {

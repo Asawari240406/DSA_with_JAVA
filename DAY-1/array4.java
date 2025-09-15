@@ -1,4 +1,4 @@
-// find the duplicate element in an array using HashMap in java 
+// find the duplicate element in an array using HashMap in java.
 import java.util.HashMap;
 
 public class array4 {
