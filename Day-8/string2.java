@@ -1,3 +1,4 @@
+// Total number of palindromic substrings in a given string
 public class string2 {
 
     private int getPalindromeCount(String s, int low, int high)

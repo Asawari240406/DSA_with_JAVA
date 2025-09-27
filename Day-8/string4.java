@@ -1,4 +1,4 @@
-// Wildcard String Matching
+// Wildcard String Matching.
 class Solution {
     static boolean match(String pat, String txt) 
     {

@@ -1,4 +1,4 @@
-// Longest Prefix Suffix
+// Longest Prefix Suffix.
 public class string5 
 {  
     static int lps(String s) 

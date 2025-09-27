@@ -1,4 +1,4 @@
-// Minimum Window Substring
+// Minimum Window Substring.
 // https://www.youtube.com/watch?v=3Bp3OVD1EGc
 import java.util.HashMap;
 import java.util.Map;
